@@ -13,3 +13,20 @@ In this Projects, I've applied so many techniques on data to get the insights fo
 6. Model building.
 7. Model Evaluation.
 
+### Classification algorithm.
+1. Logistic regression.
+2. Decision tree classifier.
+3. Support vector machine.
+3. Naive Bayes classifier.
+4. Random Forest Classifier.
+
+### Regression algorithms.
+1. Linear Regression
+2. Losso.
+3. Ridge.
+4. Support vector regresser.
+5. Decision tree regressor.
+6. Random Forest regressor.
+
+
+
